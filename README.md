@@ -1,7 +1,9 @@
 # Flocking Robots Projects
 
 Year : 2015
-Author:
+
+Authors:
+
 1. Agung Prasdianto
 2. Hafidz Bahtiar
 
