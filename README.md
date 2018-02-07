@@ -9,5 +9,5 @@ Authors:
 
 This projects is final projects in Engineering Physics major at Insitut Teknologi Bandung.
 This repo contains of simulation and implementation source code.
-Simulation use MATLAB 2015b. 
+Simulation use MATLAB. 
 Implementation use Logitech C170 Webcam and LEGO Mindstorm NXT Robots.
